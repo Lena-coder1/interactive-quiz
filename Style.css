@@ -1,0 +1,27 @@
+body{
+    
+    
+    background-image: url(https://img.freepik.com/free-vector/doodle-africa-map_1034-835.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover ;
+    
+   }
+h1{
+   color: rgb(219, 155, 8);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: oblique;
+   font-size: 300%;
+   text-align: center;
+   background-color: rgb(231, 230, 230);
+   background-attachment: fixed;
+   }
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 230, 230);
+}   
+
+#button{
+    background-color: rgb(157, 238, 158);
+
+}
